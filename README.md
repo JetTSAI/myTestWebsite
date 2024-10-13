@@ -1,1 +1,3 @@
-# test.github.io
+# 目的
+
+- 試著用 Github 架網站
